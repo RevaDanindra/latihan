@@ -19,7 +19,7 @@ namespace Latihan_Taxi
             {
                 Console.WriteLine("OnDuty : Yes");
             }
-            if else if (OnDuty == false)
+            else if (OnDuty == false)
             { 
                 Console.WriteLine("OnDuty : No");
             }
